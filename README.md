@@ -27,7 +27,7 @@ What skills you will get and learn?
 - React/React-Native/Flow
 - Redux/Thunk
 
-If you known what we expect, and would like to work remotely with an awesome team of profressionals, please write us an reply with your resume and short description about you self (don't forget about link to your GitHub profile)
+If you know what we expect, and would like to work remotely with an awesome team of professionals, please write us a reply with your resume and short description about yourself (don't forget about a link to your GitHub profile).
 
 Subject: "I would like to join you"
 Reply: `jobs@interpals.net`, `dmitry@interpals.net`
