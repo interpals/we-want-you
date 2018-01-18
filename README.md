@@ -30,4 +30,4 @@ What skills you will get and learn?
 If you know what we expect, and would like to work remotely with an awesome team of professionals, please write us a reply with your resume and short description about yourself (don't forget about a link to your GitHub profile).
 
 Subject: "I would like to join you"
-Reply: `jobs@interpals.net`, `dmitry@interpals.net`
+Reply: `jobs@interpals.net`
